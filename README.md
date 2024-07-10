@@ -5,7 +5,7 @@
 ```
 rm -rf Facebook
 git clone --depth=1 https://github.com/talyanii/Facebook-.git
-cd Facebook-
+cd Facebook
 python Facebook.py
 ```
 
