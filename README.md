@@ -4,7 +4,7 @@
 
 ```
 rm -rf Facebook-
-git clone --depth=1 https://github.com/talyanii/cloudflar.git
+git clone --depth=1 https://github.com/talyanii/Facebook-.git
 cd cloudflar
 python Facebook.py
 ```
